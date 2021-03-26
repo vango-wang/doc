@@ -45,6 +45,7 @@
 	* [设备OTA升级](zh-cn/DevicesManage/deviceupgradeOTA) 
 	* [设备授权](zh-cn/DevicesManage/device-authorize) 
 	* [音视频服务](zh-cn/DevicesManage/device-p2p)
+	* [设备接出](zh-cn/DevicesManage/device-out)
 
 
 * [场景中心](zh-cn/IFTTTManage/Introduce)
